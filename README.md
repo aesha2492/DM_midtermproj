@@ -6,7 +6,7 @@ This project implements three algorithms (Brute Force, Apriori, and FP-Growth) t
 
 ## How to Run the Code
 1. Clone this repository:
-git clone https://github.com/your-username/midterm_project.git cd midterm_project/
+git clone https://github.com/aesha2492/DM_midtermproj.git
 
 2. Install the necessary Python libraries:
 
